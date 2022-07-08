@@ -1,6 +1,6 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Jordan</h1>
-<h3 align="center">A passionate frontend developer from North Cyprus</h3>
+<h3 align="center">A passionate frontend developer from Gambia</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/VpZ2Nf5gdRYAAAAM/pc-banging.gif">
 
 

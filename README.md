@@ -1,20 +1,16 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Jordan</h1>
-<h3 align="center">A passionate frontend developer from The Gambia (West Africa)</h3>
+<h3 align="center">A frontend developer from The Gambia (West Africa)</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/VpZ2Nf5gdRYAAAAM/pc-banging.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=memphis-x&label=Profile%20views&color=0e75b6&style=flat" alt="memphis-x" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_memphisx" target="blank"><img src="https://img.shields.io/twitter/follow/_memphisx?logo=twitter&style=for-the-badge" alt="_memphisx" /></a> </p>
+- 🔭 I’m currently working on **Few things**
 
-- 🔭 I’m currently working on **My Portfolio**
-
-- 🌱 I’m currently learning **React, Angular**
+- 🌱 I’m currently learning **React, Redux**
 
 - 💬 Ask me about **HTML,CSS, Python and a pinch of JavaScript**
-
-- 📫 How to reach me **s.jordan.bernard@gmail.com**
 
 - ⚡ Fun fact **I make music.**
 
@@ -24,7 +20,6 @@
 <a href="https://twitter.com/_memphisx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_memphisx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jordan-bernard-834839227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jordan-bernard-834839227/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/memphis-x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="memphis-x" height="30" width="40" /></a>
-<a href="https://instagram.com/jedii007_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jedii007_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

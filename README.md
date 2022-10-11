@@ -22,5 +22,3 @@
 
 
 
-
-<p><img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=memphis-x&" alt="memphis-x" /></p>
